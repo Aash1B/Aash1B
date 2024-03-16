@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Aashi!!
-- 🌱 I’m currently learning CPP and Javascript!
-- <br>
+- 🌱 I’m currently learning CPP and Javascript.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 You can reach me through my linkedin or email.
